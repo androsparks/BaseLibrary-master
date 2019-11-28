@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BaseLibrary</string>
+    <string name="me">me</string>
+    <string name="change_daynight_mode">ChangeDayNightMode</string>
+    <string name="changeLanguage">ChangeLanguage</string>
+    <string name="MVPSample">MVPSample</string>
+    <string name="refresh_sample">RefreshSample</string>
+    <string name="toolbar_sample">ToolbarSample</string>
+    <string name="follow_system">Follow System</string>
+    <string name="english">English</string>
+</resources>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/mBtnChangeDayNightMode"
+            style="@style/StyleButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/change_daynight_mode" />
+
+        <Button
+            android:id="@+id/mBtnChangeLanguage"
+            style="@style/StyleButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/changeLanguage" />
+
+        <Button
+            android:id="@+id/mBtnMvpTemp"
+            style="@style/StyleButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/MVPSample" />
+
+        <Button
+            android:id="@+id/mBtnRefreshTemp"
+            style="@style/StyleButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/refresh_sample" />
+
+        <Button
+            android:id="@+id/mBtnToolbarTemp"
+            style="@style/StyleButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/toolbar_sample" />
+
+        <Button
+            android:id="@+id/mBtnDataBindingTemp"
+            style="@style/StyleButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="DataBinding模板" />
+
+        <Button
+            android:id="@+id/mBtnSocketTest"
+            style="@style/StyleButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Socket测试" />
+   <Button
+            android:id="@+id/mBtnBLETest"
+            style="@style/StyleButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="蓝牙测试" />
+
+        <Button
+            android:id="@+id/mBtnWebView"
+            style="@style/StyleButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="WebView" />
+
+    </LinearLayout>
+</android.support.v4.widget.NestedScrollView>
